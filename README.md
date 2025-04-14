@@ -1,6 +1,5 @@
-Here's a clean and professional `README.md` for your **Workspace Chat Application Deployment** project using Mattermost, Terraform, Ansible, Vault, and AWS:
 
----
+
 
 # 🗨️ Workspace Chat Application Deployment (Self-Hosted)
 
